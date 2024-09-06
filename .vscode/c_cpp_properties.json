@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "name": "Mac",
+      "includePath": ["${workspaceFolder}/**", "~/.node-gyp/15.8.0/include/**"],
+      "defines": [],
+      "macFrameworkPath": []
+    }
+  ],
+  "version": 4
+}
