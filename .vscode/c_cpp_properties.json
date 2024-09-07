@@ -2,7 +2,10 @@
   "configurations": [
     {
       "name": "Mac",
-      "includePath": ["${workspaceFolder}/**", "~/.node-gyp/15.8.0/include/**"],
+      "includePath": [
+        "${workspaceFolder}/**",
+        "/home/parallels/.nvm/versions/node/v22.8.0/include/**"
+      ],
       "defines": [],
       "macFrameworkPath": []
     }
